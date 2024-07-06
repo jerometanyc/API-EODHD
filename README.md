@@ -1,1 +1,1 @@
-Objective: obtain ROE data from EODHD and plot ROE bar chart 
+Objective: using EODHD API, obtain return on equity data of selected companies 
